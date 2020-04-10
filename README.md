@@ -17,3 +17,7 @@ Instruction on Amazon AWS account creation and developer invitation.
 ### Google Merchant How-To [Link](google_merchant.md)
 
 Guide on setting up your Google Merchant Account (needed for Android projects using IAP).
+
+### Android Promo Codes [Link](mobile_promo_codes.md)
+
+Small guide on promo codes for Android: how to generate them, and how to share with users.
