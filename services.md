@@ -72,6 +72,8 @@ Signup: https://console.cloud.google.com/project (requires Google Account)
 
 Pricing: Depends on APIs used (e.g. Maps, Places, etc)
 
+Setup Guide: [Google API Key Setup Guide](google_api_key.md)
+
 ## Web Development (hosting, databases, etc)
 
 #### 8. Amazon Web Services (AWS) Account
