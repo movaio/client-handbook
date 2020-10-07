@@ -21,3 +21,7 @@ Guide on setting up your Google Merchant Account (needed for Android projects us
 ### Android Promo Codes [Link](mobile_promo_codes.md)
 
 Small guide on promo codes for Android: how to generate them, and how to share with users.
+
+### Payment Instructions [Link](payment_instructions.md)
+
+A couple of instructions on how to pay invoice with TransferWise.
